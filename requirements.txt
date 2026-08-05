@@ -6,3 +6,7 @@ streamlit
 plotly
 matplotlib
 networkx
+streamlit>=1.30.0,<1.38.0
+starlette>=0.27.0,<0.37.0
+psutil
+pandas
